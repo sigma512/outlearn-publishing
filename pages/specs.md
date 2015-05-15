@@ -7,5 +7,5 @@ If you'd like to know more about the full specs and capabilities of Outlearn pub
 
 Without further ado, on to the specs...
 
-Will Koffel
+Will Koffel<br/>
 CTO, Outlearn

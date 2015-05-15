@@ -1,6 +1,8 @@
-That's what you are, after all --- a teacher.  Don't worry, it's a good thing!  The "noblest profession", as the saying goes.  And these days, developers are in as much need of great teachers as anyone.  Too few in our great ecosystem possess the unique talents to make these tough concepts seem approachable, and to cut through the cruft and teach us stuff that's immediately useful.
+That's what you are, after all --- a teacher.  Don't worry, it's a good thing!  The "noblest profession", as the saying goes.
 
-You have that kind of knowledge, experience, and communication skill, plus a desire to share what you know with developers.  And Outlearn has a great publishing platform for you, whether you are:
+These days, developers are in as much need of great teachers as anyone.  Too few in our growing ecosystem possess the unique talents to make these tough concepts seem approachable, and to cut through the cruft and teach us stuff that's immediately useful.
+
+You have the necessary knowledge, experience, and communication skill, plus a desire to share what you know with developers.  And Outlearn has a great publishing platform for you, whether you are:
 
 * an individual developer blogger with a passion for great technical writing and a desire to build your audience
 * an open source project that needs to get the word out about how to take advantage of your software
@@ -23,5 +25,5 @@ Finally, provided in this path are the full specification docs for our authoring
 
 Let's get started!
 
-Will Koffel
+Will Koffel<br/>
 CTO, Outlearn

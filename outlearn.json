@@ -8,20 +8,21 @@
       "description" : "A learning path about learning paths, this is the place to start if you want to get your own content, public or private, into the Outlearn format and learnable by developers everywhere.",
       "privacy" : "public",
       "pages" : [
-        {"title" : "Welcome Amazing Teacher", "content" : "./context-pages/welcome.md"},
-        {"module" : "hello-olm"},
+        {"title" : "Welcome Amazing Teacher", "content" : "./pages/welcome.md"},
+        {"module" : "outlearn-hello-world"},
         {"module" : "authoring-content-with-olp"},
         {"module" : "importing-content-with-olp"},
-        {"title" : "The Gritty Details", "content" : "./context-pages/specs.md"},
-        {"module" : "outlearn/olp-specification"},
-        {"module" : "outlearn/olm-specification"}
+        {"title" : "The Gritty Details", "content" : "./pages/specs.md"},
+        {"module" : "outlearn://wkoffel/outlearn-package-specification"},
+        {"module" : "outlearn://wkoffel/outlearn-markdown-specification"},
+        {"title" : "Go Forth and Illuminate", "content" : "./pages/closing.md"}
       ]
     }
   ],
 
   "modules" : [
     {
-      "olm" : "./modules/hello-olm.olm"
+      "olm" : "./modules/outlearn-hello-world.olm"
     },
     {
       "olm" : "./modules/authoring-content-with-olp.olm"
