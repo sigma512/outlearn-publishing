@@ -1,0 +1,36 @@
+{
+  "olpVersion" : "0.5",
+
+  "paths" : [
+    {
+      "name" : "outlearn-publishing",
+      "title" : "Publishing Great Learning Content on Outlearn",
+      "description" : "A learning path about learning paths, this is the place to start if you want to get your own content, public or private, into the Outlearn format and learnable by developers everywhere.",
+      "privacy" : "public",
+      "pages" : [
+        {"title" : "Welcome Amazing Teacher", "content" : "./context-pages/welcome.md"},
+        {"module" : "hello-olm"},
+        {"module" : "authoring-content-with-olp"},
+        {"module" : "importing-content-with-olp"},
+        {"title" : "The Gritty Details", "content" : "./context-pages/specs.md"},
+        {"module" : "outlearn/olp-specification"},
+        {"module" : "outlearn/olm-specification"}
+      ]
+    }
+  ],
+
+  "modules" : [
+    {
+      "olm" : "./modules/hello-olm.olm"
+    },
+    {
+      "olm" : "./modules/authoring-content-with-olp.olm"
+    },
+    {
+      "olm" : "./modules/importing-content-with-olp.olm"
+    }
+  ],
+
+  "assets" : [
+  ]
+}

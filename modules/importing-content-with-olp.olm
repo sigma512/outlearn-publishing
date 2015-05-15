@@ -1,0 +1,5 @@
+# Importing OLP
+
+To import an OLP directory to Outlearn, put it in a Github repo that is public or that you are authorized to access.  Log in to Outlearn with your Github credentials (or link your Github account under *Settings*), and navigate to *Import Module*, where you can specify the Github location for your module which will then be imported into your Outlearn account.
+
+Many more details on import are coming, including information about a command-line API for importing, and imports from additional web-based sources.
