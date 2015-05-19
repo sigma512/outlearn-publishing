@@ -2,7 +2,7 @@
 
 That's what you are, after all --- a teacher.  Don't worry, it's a good thing!  The "noblest profession", as the saying goes.
 
-These days, developers are in as much need of great teachers as anyone.  Too few in our growing ecosystem possess the unique talents to make these tough concepts seem approachable, and to cut through the cruft and teach us stuff that's immediately useful.
+These days, developers are in need of great teachers.  Too few in our growing ecosystem possess the unique talents to make these tough concepts seem approachable, and to cut through the cruft and teach us stuff that's immediately useful.
 
 You have the necessary knowledge, experience, and communication skill, plus a desire to share what you know with developers.  And Outlearn has a great publishing platform for you, whether you are:
 
@@ -11,11 +11,11 @@ You have the necessary knowledge, experience, and communication skill, plus a de
 * a company supporting great developer services, tools, or APIs that deserves an equally great training experience
 * a hacker with awesome pro tips to share about your favorite platforms
 
-In this path, you'll learn everything you need to know to simply and efficiently publish your material to Outlearn, publicly or for your private audience, and take advantage of the evolving learning features Outlearn offers to enrich your content.
+In this learning path, you'll learn everything you need to know to simply and efficiently publish your material to Outlearn, publicly or for your private audience, and take advantage of the evolving learning features Outlearn offers to enrich your content and make it more engaging.
 
-### Hello World
+### Outlearn Modules
 
-We'll start with a simple _Hello World_ learning module example, because...you know..._hello world_!
+Modules are the basic unit of learning in Outlearn. We'll start with a simple _Hello World_ learning module example, because...you know..._hello world_!
 
 ### Outlearn Packages
 
