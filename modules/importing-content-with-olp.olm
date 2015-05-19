@@ -1,12 +1,13 @@
 <!--
 name: importing-content-with-olp
-version : 1.0
+version : "1.0"
+freshnessDate: 2015-05-18
 title : "Importing Outlearn OLP Content"
 description: "How to import your Outlearn Package content"
 homepage : "http://www.github.com/outlearn-content/outlearn-publishing"
 author : "Will Koffel"
 license : public
-contact : "will@outlearn.com"
+contact : {email: "will@outlearn.com"}
 -->
 
 <!-- @section -->

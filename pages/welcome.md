@@ -1,3 +1,5 @@
+# Welcome Amazing Teacher
+
 That's what you are, after all --- a teacher.  Don't worry, it's a good thing!  The "noblest profession", as the saying goes.
 
 These days, developers are in as much need of great teachers as anyone.  Too few in our growing ecosystem possess the unique talents to make these tough concepts seem approachable, and to cut through the cruft and teach us stuff that's immediately useful.

@@ -1,12 +1,13 @@
 <!--
 name: outlearn-hello-world
-version : 1.0
+version : "1.0"
+freshnessDate: 2015-05-18
 title : "Quick Start for Outlearn Publishing"
 description: "Hello World for Outlearn Publishing"
 homepage : "http://www.github.com/outlearn-content/outlearn-publishing"
 author : "Will Koffel"
 license : public
-contact : "will@outlearn.com"
+contact : {email: "will@outlearn.com"}
 -->
 
 <!-- @section -->

@@ -1,3 +1,5 @@
+# The Gritty Details
+
 You definitely know enough at this point to get started.  The easiest way to start is to:
 
 * [clone](#) or [download](#) the [Outlearn Single-Page Module OLM Template](http://www.github.com/outlearn-content/outlearn-module-template)
