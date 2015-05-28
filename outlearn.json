@@ -1,0 +1,26 @@
+{
+  "olpVersion" : "0.5",
+
+  "paths" : [
+    {
+      "name" : "outlearn-publishing",
+      "title" : "Publishing Great Learning Content on Outlearn",
+      "description" : "A learning path about learning paths \u2014 get your own content, public or private, learnable by developers everywhere on Outlearn.",
+      "privacy" : "public",
+      "pages" : [
+        {"page" : "./pages/welcome.md"},
+        {"module" : "outlearn/readme"},
+        {"page" : "./pages/specs.md"},
+        {"module" : "outlearn/outlearn-package-specification"},
+        {"module" : "outlearn/outlearn-markdown-specification"},
+        {"page" : "./pages/closing.md"}
+      ]
+    }
+  ],
+
+  "modules" : [
+  ],
+
+  "assets" : [
+  ]
+}
