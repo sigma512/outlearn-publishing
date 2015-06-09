@@ -11,6 +11,7 @@
         {"page" : "./pages/welcome.md"},
         {"module" : "outlearn/readme"},
         {"page" : "./pages/specs.md"},
+        {"module" : "advanced-outlearn"},
         {"module" : "outlearn/outlearn-package-specification"},
         {"module" : "outlearn/outlearn-markdown-specification"},
         {"page" : "./pages/closing.md"}
