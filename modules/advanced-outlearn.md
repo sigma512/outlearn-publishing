@@ -49,7 +49,7 @@ Often, your team will share access both to a Github repository with the source o
 
 # Building a Path from Modules with Different Owners and/or Repositories
 
-Outlearn Paths let you pull in any publicly available Outlearn Modules as well as private Modules that your learners have access to. All the Modules are specified in the `outlearn.json` manifest in the `pages` array. If a Module is declared in the same `outlearn.json` as the path, you can just use the name of the Module. See Module `awesome-first-module` below for an example.
+Outlearn Paths let you pull in any publicly available Outlearn Modules as well as private Modules that your learners have access to. All the Modules for a Path are specified in the `outlearn.json` manifest in the `pages` array. If a Module is declared in the same `outlearn.json` as the Path, you can just use the name of the Module. See Module `awesome-first-module` below for an example.
 
 A remote Outlearn Module must be available at the time of import. For example, if you reference `delightsome/grand-second-module`, be sure that it exists on Outlearn before importing a path that references it. Remote Modules are referenced by their Outlearn owner _and_ the Module name.
 
@@ -76,6 +76,6 @@ A remote Outlearn Module must be available at the time of import. For example, i
 ],
 ```
 
-> **Note:** Outlearn Modules are referenced by their owner, not by their source repo. If you import the path to Outlearn Organization Delightsome and it includes a Module owned by Delightsome coming from a different repo, you still need to specify the owner.
+> **Note:** If you import a Path to Outlearn Organization Delightsome and it includes a Module owned by Delightsome coming from a different repo, you still need to specify the owner.
 
 The easiest way to keep your Modules and Paths up-to-date is to set them to Autoimport. However, when you update a Module and want to see the changes in a path that is declared in a separate repo, you need to manually re-import the Path because Outlearn does not currently track whether any of the Modules of a Path that are declared in another repo have changed.
