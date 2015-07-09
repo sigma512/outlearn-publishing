@@ -26,7 +26,7 @@ You need to [create an Outlearn account](https://pilot.outlearn.com/auth/join) t
 
 # Anatomy of a Path
 
-Learning Paths are core to the Outlearn experience. Each of them has an outline page where you can get a quick overview of what's inside the Path. As an example, check out the [outline for this Path](https://pilot.outlearn.com/learn/outlearn/start-learning).
+Learning Paths are core to the Outlearn experience. Each of them has an outline page where you can get a quick overview of what's inside the Path. As an example, check out the [outline for this Path](https://pilot.outlearn.com/learn/outlearn/start-learning). You can see a screenshot below.
 
 ![Outline page](https://raw.githubusercontent.com/outlearn-content/outlearn-publishing/master/images/outline.png)
 
@@ -44,7 +44,7 @@ There are a few different ways to move around a Path. You can move to the previo
 
 The top of the page shows a navigation bar that summarizes the whole Path. The outline page is a circle at the left. Each Page is represented by a dot and each Module by a bar. You can click on any dot or bar to move around.
 
-Each Module is made up of one or more Sections and they are listed on the right side of the page. You can click on the Sections titles to move around. Keyboard shortcuts for next and previous Section are `n` and `p` respectively. Your current Section is expanded in the nav bar with each Section shown separately and completed Sections highlighted.
+Each Module is made up of one or more Sections and they are listed on the right side of the page. You can click on the Sections titles to move around. Keyboard shortcuts for next and previous Section are `n` and `p` respectively. Your current Section is expanded in the nav bar with each Section shown separately and completed Sections highlighted. Below you can see a sample nav bar.
 
 ![Nav bar](https://raw.githubusercontent.com/outlearn-content/outlearn-publishing/master/images/nav-bar.png)
 
@@ -56,7 +56,7 @@ Each Module is made up of one or more Sections and they are listed on the right 
 
 Outlearn makes it super easy for individual developers and teams to track their learning progress. Each Section has a check box that you can check either at the end of the Section or from the list of Sections on the right. It's up to you to decide when you are "done" with a Section. Outlearn is built for professional developers and you know best whether you want to spend more time on a topic or move on.
 
-Most Modules also have tasks with checkboxes. Those are the things that the author thinks are most valuable for you to do. Some tasks also have a deliverable where you need to paste in some text to complete the task. If you want to see at a glance how you are doing with a path and what you submitted as deliverables, navigate to [My Learning](https://pilot.outlearn.com/my-learning) and choose the Path you want to see. If you are learning a Path together with you organization, the person with admin rights for the organizations Outlearn account can also see your progress and submissions.
+Most Modules also have tasks with checkboxes. Those are the things that the author thinks are most valuable for you to do. Some tasks also have a deliverable where you need to paste in some text to complete the task. If you want to see at a glance how you are doing with a path and what you submitted as deliverables, navigate to [My Learning](https://pilot.outlearn.com/my-learning) and choose the Path you want to see. If you are learning a Path together with you organization, the person with admin rights for the organizations Outlearn account can also see your progress and submissions. Below is an example Progress Report for this path.
 
 ![Progress report](https://raw.githubusercontent.com/outlearn-content/outlearn-publishing/master/images/progress.png)
 
