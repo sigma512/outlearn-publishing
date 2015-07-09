@@ -16,11 +16,23 @@
         {"module" : "outlearn/outlearn-markdown-specification"},
         {"page" : "./pages/closing.md"}
       ]
+    },
+    {
+      "name" : "start-learning",
+      "title" : "Crash Course into Outlearn",
+      "description" : "A quick tour of how to best learn with Outlearn.",
+      "privacy" : "public",
+      "pages" : [
+        {"page" : "./pages/new-learner.md"},
+        {"module" : "tour-outlearn"},
+        {"page" : "./pages/next-steps.md"}
+      ]
     }
   ],
 
   "modules" : [
-    {"olm" : "./modules/advanced-outlearn.md"}
+    {"olm" : "./modules/advanced-outlearn.md"},
+    {"olm" : "./modules/tour-outlearn.md"}
   ],
 
   "assets" : [
