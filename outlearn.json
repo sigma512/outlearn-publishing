@@ -6,7 +6,7 @@
       "name" : "outlearn-publishing",
       "title" : "Publishing Great Learning Content on Outlearn",
       "description" : "A learning path about learning paths \u2014 get your own content, public or private, learnable by developers everywhere on Outlearn.",
-      "coverImage" : "https://raw.githubusercontent.com/outlearn-content/outlearn-publishing/master/images/lobby.jpg",
+      "coverImage" : "https://raw.githubusercontent.com/outlearn-content/outlearn-publishing/master/images/san-francisco.jpg",
       "privacy" : "public",
       "pages" : [
         {"page" : "./pages/welcome.md"},
@@ -22,7 +22,7 @@
       "name" : "start-learning",
       "title" : "Welcome to Outlearn",
       "description" : "A quick tour of how to best learn with Outlearn.",
-      "coverImage" : "https://raw.githubusercontent.com/outlearn-content/outlearn-publishing/master/images/interior.jpg",
+      "coverImage" : "https://raw.githubusercontent.com/outlearn-content/outlearn-publishing/master/images/new-york.jpg",
       "privacy" : "public",
       "pages" : [
         {"page" : "./pages/new-learner.md"},
