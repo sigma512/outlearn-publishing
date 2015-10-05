@@ -23,7 +23,7 @@
       "title" : "Welcome to Outlearn",
       "description" : "A quick tour of how to best learn with Outlearn.",
       "coverImage" : "https://raw.githubusercontent.com/outlearn-content/outlearn-publishing/master/images/new-york.jpg",
-      "privacy" : "public",
+      "privacy" : "private",
       "pages" : [
         {"page" : "./pages/new-learner.md"},
         {"module" : "tour-outlearn"},
