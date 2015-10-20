@@ -3,38 +3,24 @@
 
   "paths" : [
     {
-      "name" : "outlearn-publishing",
-      "title" : "Publishing Great Learning Content on Outlearn",
-      "description" : "A learning path about learning paths \u2014 get your own content, public or private, learnable by developers everywhere on Outlearn.",
-      "coverImage" : "https://raw.githubusercontent.com/outlearn-content/outlearn-publishing/master/images/san-francisco.jpg",
+      "name" : "liberty-mutual-demo",
+      "title" : "The Fundamentals of Software Testing",
+      "description" : "This learning path provides a foundation in the fundamentals of software testing. You will learn how to create and run tests for web applications and mobile apps using common tools and processes.",
+      "coverImage" : "http://i.ytimg.com/vi/asTIVibAjEk/maxresdefault.jpg",
       "privacy" : "public",
       "pages" : [
         {"page" : "./pages/welcome.md"},
-        {"module" : "outlearn/readme"},
-        {"page" : "./pages/specs.md"},
-        {"module" : "advanced-outlearn"},
-        {"module" : "outlearn/outlearn-package-specification"},
+        {"module" : "basic-concepts"},
+        {"module" : "testing-techniques"},
         {"module" : "outlearn/outlearn-markdown-specification"},
         {"page" : "./pages/closing.md"}
-      ]
-    },
-    {
-      "name" : "start-learning",
-      "title" : "Welcome to Outlearn",
-      "description" : "A quick tour of how to best learn with Outlearn.",
-      "coverImage" : "https://raw.githubusercontent.com/outlearn-content/outlearn-publishing/master/images/new-york.jpg",
-      "privacy" : "private",
-      "pages" : [
-        {"page" : "./pages/new-learner.md"},
-        {"module" : "tour-outlearn"},
-        {"page" : "./pages/next-steps.md"}
       ]
     }
   ],
 
   "modules" : [
-    {"olm" : "./modules/advanced-outlearn.md"},
-    {"olm" : "./modules/tour-outlearn.md"}
+    {"olm" : "./modules/basic-concepts.md"},
+    {"olm" : "./modules/testing-techniques.md"}
   ],
 
   "assets" : [
