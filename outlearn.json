@@ -12,6 +12,7 @@
         {"page" : "./pages/welcome.md"},
         {"module" : "basic-concepts"},
         {"module" : "testing-techniques"},
+        {"module" : "angularjs/e2e-testing"},
         {"module" : "outlearn/outlearn-markdown-specification"},
         {"page" : "./pages/closing.md"}
       ]
