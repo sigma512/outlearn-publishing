@@ -7,7 +7,7 @@
       "title" : "The Fundamentals of Software Testing",
       "description" : "This learning path provides a foundation in the fundamentals of software testing. You will learn how to create and run tests for web applications and mobile apps using common tools and processes.",
       "coverImage" : "http://i.ytimg.com/vi/asTIVibAjEk/maxresdefault.jpg",
-      "privacy" : "private",
+      "privacy" : "public",
       "pages" : [
         {"page" : "./pages/welcome.md"},
         {"module" : "basic-concepts"},
