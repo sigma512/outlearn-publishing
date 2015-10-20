@@ -23,7 +23,7 @@ Mauris non eleifend eros. Integer sit amet nisi quam. Praesent id ultricies maur
 
 Nam a diam massa. Pellentesque molestie erat in faucibus rhoncus. Integer et condimentum magna, eu lobortis mi. Duis at gravida odio. Praesent non lectus velit. Maecenas sed facilisis est. Nullam sollicitudin elementum mauris, id posuere urna. Vestibulum molestie, quam at efficitur viverra, magna nulla tempor lectus, in varius nulla enim ut felis.
 
-<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/watch?v=kpT95Jb3t3U" -->
+<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/kpT95Jb3t3U" -->
 
 Curabitur fringilla pellentesque rutrum. Nullam cursus, quam fringilla pretium finibus, ex diam condimentum diam, vitae pretium augue nisl quis elit. Donec euismod ultricies turpis, in fermentum elit. In a lacus ante. Nullam orci odio, facilisis eget felis tincidunt, tincidunt vestibulum arcu. Curabitur lectus enim, sagittis vel enim vel, dapibus condimentum orci. Integer non velit maximus, bibendum quam rutrum, auctor magna. Proin ac iaculis tellus, eget tempus libero. Nullam nulla lorem, gravida ac sem nec, venenatis sollicitudin sapien. Etiam sed urna id augue faucibus malesuada in in lectus. Morbi ultricies leo a facilisis rutrum. Morbi euismod ante gravida tristique gravida. Phasellus volutpat tellus eu congue auctor.
 
