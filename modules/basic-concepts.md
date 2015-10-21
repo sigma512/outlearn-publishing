@@ -72,8 +72,8 @@ Auditoría: Se trata de una actividad de inspección / evaluación que verifica 
 亲和图：一组过程，需要大量的语言数据，如通过集思广益开发，并将其划分类别
 审计：这是一个检查/评估活动，验证符合规划，政策和程序，并确保资源得到保护。
 
-आत्मीयता आरेख: इस तरह के विचार विमर्श से विकास के रूप में भाषा डेटा की बड़ी मात्रा में लेता है, और श्रेणियों में यह बांटता है कि एक समूह प्रक्रिया
-ऑडिट: इस योजनाओं, नीतियों और प्रक्रियाओं के अनुपालन की पुष्टि करता है और संसाधनों का संरक्षण कर रहे हैं कि यह सुनिश्चित करता है कि एक निरीक्षण / मूल्यांकन गतिविधि है।
+એફિનીટી ડાયાગ્રામ: જેમ વિચારણાની દ્વારા વિકાસશીલ તરીકે ભાષા માહિતી મોટા પ્રમાણમાં લે છે, અને વર્ગોમાં માં વિભાજન કે જૂથ પ્રક્રિયા
+ઓડિટ: આ યોજના, નીતિઓ અને પ્રક્રિયાઓ પાલન ખાતરી કરે છે અને સ્ત્રોતો સચવાયેલો છે તેની ખાતરી છે કે જે નિરીક્ષણ / આકારણી પ્રવૃત્તિ છે.
 
 Rajah Affinity: Proses kumpulan yang mengambil data yang banyak bahasa, seperti membangunkan oleh sumbang saran, dan membahagikan kepada kategori
 Audit: Ini adalah satu aktiviti pemeriksaan / penilaian yang mengesahkan pelan, polisi dan prosedur dan memastikan bahawa sumber-sumber yang dipelihara.
